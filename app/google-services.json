@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76809283997",
+    "firebase_url": "https://love-bday-default-rtdb.firebaseio.com",
+    "project_id": "love-bday",
+    "storage_bucket": "love-bday.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76809283997:android:dff76ed1156bfed7d6a774",
+        "android_client_info": {
+          "package_name": "com.example.ldr_love_from_afar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76809283997-k79kf2fnvc7ddpgc7otvrvs2q59o3hub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ldr_love_from_afar",
+            "certificate_hash": "6192ec0f04d8501edf0a53eee915d3a7d8ccd622"
+          }
+        },
+        {
+          "client_id": "76809283997-haan75ce7qs47vg6d20ssvoajtmiokui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "REMOVED"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76809283997-haan75ce7qs47vg6d20ssvoajtmiokui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
